@@ -1,1 +1,1 @@
-# Responiseness
+# Responsiveness
